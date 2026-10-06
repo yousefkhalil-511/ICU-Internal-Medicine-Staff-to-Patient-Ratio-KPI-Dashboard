@@ -1,0 +1,6 @@
+Shift_ID,Shift_Name,Shift_Hours,Start_Time,End_Time
+S12_DAY,12h Day,12.0,07:00,19:00
+S12_NIGHT,12h Night,12.0,19:00,07:00
+S08_DAY,8h Day,8.0,07:00,15:00
+S08_EVE,8h Evening,8.0,15:00,23:00
+S08_NIGHT,8h Night,8.0,23:00,07:00

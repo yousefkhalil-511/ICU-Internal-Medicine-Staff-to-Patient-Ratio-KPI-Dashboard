@@ -1,0 +1,3 @@
+Unit_ID,Unit_Name,Care_Level,Bed_Capacity,Shift_Model
+U_ICU,Intensive Care Unit,Critical Care,18,12-Hour
+U_INT,Internal Medicine Ward,Acute / General Inpatient,48,8-Hour

@@ -1,0 +1,100 @@
+Staff_ID,Primary_Unit_ID,Staff_Role,License_Status,Default_Employment_Type,FTE
+STF_ICU_001,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_002,U_ICU,Registered Nurse,Licensed,Agency/Traveler,0.9
+STF_ICU_003,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_004,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_005,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_006,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_007,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_008,U_ICU,Registered Nurse,Licensed,Float Pool,0.9
+STF_ICU_009,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_010,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_011,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_012,U_ICU,Registered Nurse,Licensed,Agency/Traveler,0.9
+STF_ICU_013,U_ICU,Registered Nurse,Licensed,Overtime,0.9
+STF_ICU_014,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_015,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_016,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_017,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_018,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_019,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_020,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_021,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_022,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_023,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_024,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_025,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_026,U_ICU,Registered Nurse,Licensed,Overtime,0.9
+STF_ICU_027,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_028,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_029,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_030,U_ICU,Registered Nurse,Licensed,Core Staff,0.9
+STF_ICU_031,U_ICU,Certified Nursing Assistant,Unlicensed,Core Staff,0.9
+STF_ICU_032,U_ICU,Certified Nursing Assistant,Unlicensed,Core Staff,0.9
+STF_ICU_033,U_ICU,Certified Nursing Assistant,Unlicensed,Core Staff,0.9
+STF_ICU_034,U_ICU,Certified Nursing Assistant,Unlicensed,Agency/Traveler,0.9
+STF_ICU_035,U_ICU,Certified Nursing Assistant,Unlicensed,Agency/Traveler,0.9
+STF_INT_001,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_002,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_003,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_004,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_005,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_006,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_007,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_008,U_INT,Registered Nurse,Licensed,Agency/Traveler,1.0
+STF_INT_009,U_INT,Certified Nursing Assistant,Unlicensed,Float Pool,1.0
+STF_INT_010,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_011,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_012,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_013,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_014,U_INT,Registered Nurse,Licensed,Overtime,1.0
+STF_INT_015,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_016,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_017,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_018,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_019,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_020,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_021,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_022,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_023,U_INT,Registered Nurse,Licensed,Overtime,1.0
+STF_INT_024,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_025,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_026,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_027,U_INT,Licensed Practical Nurse,Licensed,Overtime,1.0
+STF_INT_028,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_029,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_030,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_031,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_032,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_033,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_034,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_035,U_INT,Registered Nurse,Licensed,Float Pool,1.0
+STF_INT_036,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_037,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_038,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_039,U_INT,Registered Nurse,Licensed,Float Pool,1.0
+STF_INT_040,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_041,U_INT,Certified Nursing Assistant,Unlicensed,Overtime,1.0
+STF_INT_042,U_INT,Registered Nurse,Licensed,Overtime,1.0
+STF_INT_043,U_INT,Registered Nurse,Licensed,Overtime,1.0
+STF_INT_044,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_045,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_046,U_INT,Registered Nurse,Licensed,Overtime,1.0
+STF_INT_047,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_048,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_049,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_050,U_INT,Registered Nurse,Licensed,Float Pool,1.0
+STF_INT_051,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_052,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_053,U_INT,Certified Nursing Assistant,Unlicensed,Agency/Traveler,1.0
+STF_INT_054,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_055,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_056,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_057,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_058,U_INT,Registered Nurse,Licensed,Float Pool,1.0
+STF_INT_059,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_060,U_INT,Registered Nurse,Licensed,Agency/Traveler,1.0
+STF_INT_061,U_INT,Registered Nurse,Licensed,Core Staff,1.0
+STF_INT_062,U_INT,Certified Nursing Assistant,Unlicensed,Core Staff,1.0
+STF_INT_063,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0
+STF_INT_064,U_INT,Licensed Practical Nurse,Licensed,Core Staff,1.0

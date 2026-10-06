@@ -1,0 +1,6 @@
+Unit_ID,Shift_ID,Target_Patient_To_Staff_Ratio,Target_HPPD,Mandated_Max_Patient_Per_RN,Target_RN_Skill_Mix_Pct
+U_ICU,S12_DAY,2.0,12.5,2.0,0.9
+U_ICU,S12_NIGHT,2.0,12.0,2.0,0.9
+U_INT,S08_DAY,4.5,7.5,5.0,0.65
+U_INT,S08_EVE,5.0,7.0,6.0,0.6
+U_INT,S08_NIGHT,6.0,6.0,7.0,0.55
